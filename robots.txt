@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /purchases/
+Sitemap: https://thebotdidit.github.io/sitemap.xml
